@@ -1,5 +1,5 @@
 ## Overview
-- This repository showcases very basic but important first steps on how to implement a Retrieval Augemented Generation (RAG) solution.
+- This repository showcases very basic but important first steps on how to implement a Retrieval Augemented Generation (RAG) solution using offline small language models (SML) and FastApi.
 - In this example, we used text extracted from Wikipedia about Charles de Gaulle (https://en.wikipedia.org/wiki/Charles_de_Gaulle).
 - The end goal is to the query the text for fairly correct responses.
 
